@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-04T11:17:01 IDT" name="Default suite" finished-at="2023-07-04T11:17:15 IDT" duration-ms="14063">
+    <groups>
+    </groups>
+    <test started-at="2023-07-04T11:17:01 IDT" name="Default test" finished-at="2023-07-04T11:17:15 IDT" duration-ms="14063">
+      <class name="test.ZoomInfo">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:01 IDT" name="beforeTest" finished-at="2023-07-04T11:17:06 IDT" duration-ms="4948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Plus()[pri:1, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:06 IDT" name="Plus" finished-at="2023-07-04T11:17:09 IDT" duration-ms="3663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Plus -->
+        <test-method signature="Minus()[pri:2, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:09 IDT" name="Minus" finished-at="2023-07-04T11:17:11 IDT" duration-ms="1279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Minus -->
+        <test-method signature="notEqual()[pri:3, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:11 IDT" name="notEqual" finished-at="2023-07-04T11:17:12 IDT" duration-ms="1395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notEqual -->
+        <test-method signature="sin()[pri:4, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:12 IDT" name="sin" finished-at="2023-07-04T11:17:13 IDT" duration-ms="1079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sin -->
+        <test-method signature="historyCheckStepFour()[pri:5, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:13 IDT" name="historyCheckStepFour" finished-at="2023-07-04T11:17:13 IDT" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- historyCheckStepFour -->
+        <test-method signature="historyCheckStepThree()[pri:6, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:13 IDT" name="historyCheckStepThree" finished-at="2023-07-04T11:17:13 IDT" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- historyCheckStepThree -->
+        <test-method signature="historyCheckStepTwo()[pri:7, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:13 IDT" name="historyCheckStepTwo" finished-at="2023-07-04T11:17:13 IDT" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- historyCheckStepTwo -->
+        <test-method signature="historyCheckStepOne()[pri:8, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:13 IDT" name="historyCheckStepOne" finished-at="2023-07-04T11:17:14 IDT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- historyCheckStepOne -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.ZoomInfo@53ce1329]" started-at="2023-07-04T11:17:14 IDT" name="afterTest" finished-at="2023-07-04T11:17:15 IDT" duration-ms="1262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.ZoomInfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
